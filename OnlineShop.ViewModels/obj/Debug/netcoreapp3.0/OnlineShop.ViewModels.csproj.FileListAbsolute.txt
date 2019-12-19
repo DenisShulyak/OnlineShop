@@ -1,0 +1,16 @@
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.deps.json
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.csprojAssemblyReference.cache
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfoInputs.cache
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfo.cs
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.deps.json
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfo.cs
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb

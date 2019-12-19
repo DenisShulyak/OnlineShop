@@ -1,0 +1,16 @@
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.deps.json
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.csprojAssemblyReference.cache
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.AssemblyInfoInputs.cache
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.AssemblyInfo.cs
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\ШулякД\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.deps.json
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.AssemblyInfo.cs
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\denis\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
